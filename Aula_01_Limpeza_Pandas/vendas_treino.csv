@@ -1,0 +1,156 @@
+id_venda,produto,quantidade,valor_unitario,desconto,categoria_cliente,pontuacao_fidelidade
+105,Fone de Ouvido,4.0,,0.0,bronze,363
+94,Fone de Ouvido,3.0,250.47,0.0,vip,762
+84,Tablet,1.0,934.65,0.15,regular,427
+12,Smartwatch,2.0,703.1,0.0,,382
+63,Tablet,4.0,,0.1,,521
+62,Smartwatch,4.0,681.91,0.0,Bronze,467
+30,Fone de Ouvido,5.0,272.41,0.15,Regular,885
+119,Notebook,3.0,,0.0,bronze,859
+70,Smartwatch,1.0,747.46,0.0,Bronze,938
+37,Tablet,3.0,1050.84,,Bronze,243
+39,Smartwatch,3.0,678.84,0.05,vip,739
+93,Tablet,1.0,984.46,0.1,Bronze,722
+87,Smartphone,5.0,1466.93,0.0,Vip,904
+41,Fone de Ouvido,4.0,241.1,0.0,Vip,420
+100,Smartwatch,2.0,693.3,0.1,VIP,682
+138,Tablet,1.0,1031.66,0.05,Vip,129
+21,Notebook,4.0,3063.8,0.1,vip,52
+117,Fone de Ouvido,2.0,260.74,0.05,bronze,406
+35,Smartphone,2.0,1554.56,0.0,vip,485
+9,Smartwatch,4.0,704.3,0.0,vip,136
+95,Smartwatch,5.0,,0.05,Regular,68
+43,Notebook,,3462.56,0.15,bronze,516
+31,Fone de Ouvido,5.0,244.79,0.1,regular,263
+109,Smartphone,2.0,1356.16,0.05,vip,249
+49,Notebook,5.0,3242.82,0.15,vip,362
+121,Smartphone,,1390.33,0.05,Regular,727
+137,Smartphone,1.0,1588.1,0.0,Bronze,275
+7,Tablet,2.0,1019.99,0.05,Vip,686
+114,Notebook,5.0,3317.79,0.05,Bronze,314
+149,Fone de Ouvido,1.0,234.48,0.0,VIP,232
+14,Notebook,3.0,3208.04,0.0,Regular,371
+73,Smartwatch,2.0,743.82,0.15,regular,204
+48,Notebook,5.0,3445.93,,Bronze,344
+51,Tablet,5.0,,0.15,bronze,210
+76,Smartphone,2.0,1545.68,0.1,bronze,524
+150,Notebook,4.0,2973.67,0.1,bronze,922
+23,Smartwatch,4.0,807.3,0.1,Bronze,85
+96,Smartphone,3.0,1620.71,0.0,Bronze,869
+75,Smartwatch,4.0,776.35,0.0,,817
+6,Smartwatch,5.0,793.42,0.1,regular,315
+2,Smartphone,,1451.9,0.0,regular,84
+15,Fone de Ouvido,5.0,274.78,0.0,bronze,536
+135,Tablet,5.0,1028.59,0.15,,538
+1,Smartwatch,5.0,752.68,0.15,Bronze,53
+33,Notebook,,2902.34,0.05,VIP,482
+82,Smartphone,3.0,1632.63,,Bronze,281
+139,Notebook,2.0,2885.89,0.0,vip,311
+57,Tablet,3.0,,0.0,Regular,606
+38,Notebook,5.0,3503.23,0.0,VIP,181
+3,Notebook,4.0,3266.17,0.1,Bronze,276
+104,Tablet,4.0,923.12,0.05,regular,873
+71,Smartwatch,3.0,766.06,0.05,Vip,465
+115,Smartphone,5.0,1603.0,0.0,Regular,815
+77,Tablet,5.0,904.17,0.15,Vip,75
+25,Tablet,5.0,990.59,0.1,,618
+141,Notebook,4.0,3075.69,,Vip,931
+133,Smartwatch,2.0,810.79,0.0,Regular,505
+10,Fone de Ouvido,5.0,245.03,0.0,Vip,262
+46,Tablet,1.0,,0.05,VIP,71
+45,Tablet,4.0,1009.23,0.1,Vip,928
+86,Fone de Ouvido,1.0,259.55,0.0,vip,390
+111,Smartphone,2.0,1577.61,0.0,Regular,182
+120,Fone de Ouvido,2.0,233.99,0.1,regular,421
+111,Smartphone,2.0,1577.61,0.0,Regular,182
+122,Tablet,2.0,1010.55,0.05,vip,62
+102,Tablet,,1003.41,0.05,,861
+134,Fone de Ouvido,3.0,226.49,0.1,VIP,617
+4,Smartwatch,3.0,723.16,0.05,,779
+36,Fone de Ouvido,4.0,145000.0,0.1,Vip,172
+148,Smartphone,2.0,,0.15,,651
+34,Fone de Ouvido,,261.92,0.15,,155
+27,Tablet,3.0,1072.15,0.1,Bronze,420
+51,Tablet,5.0,,0.15,bronze,210
+85,Smartwatch,5.0,705.75,0.0,Bronze,348
+66,Fone de Ouvido,4.0,271.58,0.0,bronze,525
+64,Smartwatch,1.0,697.1,0.15,Vip,638
+13,Notebook,,3456.8,0.05,Vip,839
+47,Smartwatch,3.0,813.37,0.0,Vip,833
+50,Fone de Ouvido,2.0,264.93,0.05,bronze,896
+5,Smartphone,5.0,1442.86,0.0,Vip,158
+56,Tablet,3.0,905.24,0.15,vip,861
+99,Fone de Ouvido,4.0,242.66,0.05,VIP,579
+19,Fone de Ouvido,3.0,243.79,,bronze,608
+44,Smartwatch,1.0,803.96,0.0,Bronze,776
+130,Smartphone,5.0,1358.71,0.0,Vip,560
+123,Notebook,5.0,3450.16,0.1,Vip,420
+54,Notebook,4.0,3158.44,0.15,Vip,892
+79,Tablet,3.0,,0.0,regular,646
+88,Smartwatch,1.0,807.84,0.0,Regular,85
+22,Tablet,4.0,1000.85,0.15,Regular,421
+126,Notebook,3.0,2939.87,0.0,Regular,354
+11,Smartphone,,1619.69,0.05,,388
+17,Fone de Ouvido,1.0,242.7,,bronze,839
+16,Smartwatch,4.0,,0.0,bronze,236
+40,Smartphone,1.0,1423.71,,vip,568
+24,Tablet,1.0,983.07,,regular,592
+42,Smartphone,4.0,1403.37,0.0,Vip,549
+124,Smartwatch,3.0,708.34,0.0,regular,791
+65,Tablet,4.0,1010.15,0.1,Vip,671
+145,Smartphone,,1385.98,0.0,vip,721
+28,Fone de Ouvido,,238.8,0.1,Regular,581
+131,Tablet,4.0,935.93,,regular,755
+127,Fone de Ouvido,3.0,247.43,0.0,VIP,849
+78,Smartwatch,5.0,720.15,0.1,,869
+80,Tablet,4.0,936.8,0.1,Vip,538
+118,Fone de Ouvido,4.0,236.21,0.1,regular,399
+8,Fone de Ouvido,2.0,257.84,0.0,VIP,401
+140,Smartphone,1.0,1627.42,0.05,,913
+69,Tablet,,937.44,0.1,regular,394
+132,Notebook,1.0,3061.61,0.0,Vip,225
+91,Smartwatch,3.0,795.22,0.0,Bronze,877
+26,Fone de Ouvido,,234.11,0.05,regular,434
+89,Smartphone,2.0,1648.26,0.15,bronze,432
+59,Smartphone,1.0,1410.24,0.0,Bronze,469
+112,Smartphone,4.0,1366.44,0.0,,769
+20,Smartphone,3.0,1371.0,0.0,Bronze,464
+60,Notebook,2.0,3370.39,0.05,Bronze,170
+103,Tablet,2.0,,0.0,,899
+29,Smartwatch,,720.15,0.15,Regular,539
+53,Smartphone,4.0,1361.01,0.0,,159
+143,Smartwatch,,793.86,0.05,Bronze,466
+128,Fone de Ouvido,2.0,240.13,0.0,bronze,858
+110,Tablet,,1080.65,0.1,bronze,434
+97,Smartwatch,2.0,778.13,0.0,Vip,826
+61,Fone de Ouvido,3.0,236.85,0.15,regular,522
+142,Tablet,5.0,1012.35,0.05,vip,244
+146,Notebook,3.0,3287.27,0.15,regular,307
+126,Notebook,3.0,2939.87,0.0,Regular,354
+106,Notebook,,2961.75,0.1,Vip,179
+92,Fone de Ouvido,2.0,227.56,0.0,Bronze,398
+125,Fone de Ouvido,1.0,268.32,,Bronze,914
+144,Notebook,3.0,3209.81,0.0,Regular,750
+57,Tablet,3.0,,0.0,Regular,606
+113,Notebook,4.0,3273.38,0.15,VIP,880
+18,Tablet,4.0,1039.48,0.15,bronze,236
+129,Notebook,4.0,3118.34,0.0,VIP,397
+101,Fone de Ouvido,,262.69,,regular,645
+81,Tablet,2.0,1042.16,0.0,Vip,664
+55,Fone de Ouvido,1.0,247.32,,Regular,192
+107,Notebook,,3284.84,0.05,,191
+116,Fone de Ouvido,,246.91,0.15,regular,426
+136,Tablet,,954.82,0.0,,440
+72,Smartphone,,1518.41,0.0,vip,458
+67,Fone de Ouvido,2.0,262.13,0.05,Vip,633
+58,Fone de Ouvido,2.0,271.5,0.0,,374
+147,Fone de Ouvido,4.0,233.21,0.1,Regular,247
+108,Smartphone,2.0,1627.53,0.0,bronze,671
+32,Fone de Ouvido,3.0,232.33,0.0,Bronze,520
+83,Smartphone,,1471.9,0.1,Regular,603
+68,Smartwatch,5.0,,0.0,bronze,830
+90,Notebook,4.0,2990.54,0.0,regular,320
+52,Smartwatch,2.0,751.02,0.0,vip,386
+98,Tablet,3.0,1012.17,0.05,,896
+74,Notebook,3.0,3168.84,0.15,Vip,73
+128,Fone de Ouvido,2.0,240.13,0.0,bronze,858
