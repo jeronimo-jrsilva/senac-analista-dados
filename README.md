@@ -8,6 +8,7 @@ Este repositório centraliza os materiais de aula (Notebooks de exercícios e sl
 *   **`Aula_01_Limpeza_Pandas/`**: Tratamento de dados nulos/duplicados, normalização e IQR com Pandas. (Contém notebook de exercícios e datasets `.csv`).
 *   **`Aula_02_Intro_ML/`**: Divisão entre treino e teste, conceitos básicos e overfitting. (Contém notebook e slides em PDF).
 *   **`Aula_03_Classificacao_Modelos/`**: Modelagem de classificação usando o algoritmo de Árvore de Decisão. (Contém notebook progressivo e slides em PDF).
+*   **`Aula_04_KNN_Acuracia/`**: Classificação com KNN (K-Nearest Neighbors), ajuste de hiperparâmetros (K) e avaliação de acurácia. (Contém notebook de exercícios e slides em PDF).
 
 ---
 *Bons estudos!*
