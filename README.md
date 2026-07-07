@@ -9,6 +9,7 @@ Este repositório centraliza os materiais de aula (Notebooks de exercícios e sl
 *   **`Aula_02_Intro_ML/`**: Divisão entre treino e teste, conceitos básicos e overfitting. (Contém notebook e slides em PDF).
 *   **`Aula_03_Classificacao_Modelos/`**: Modelagem de classificação usando o algoritmo de Árvore de Decisão. (Contém notebook progressivo e slides em PDF).
 *   **`Aula_04_KNN_Acuracia/`**: Classificação com KNN (K-Nearest Neighbors), ajuste de hiperparâmetros (K) e avaliação de acurácia. (Contém notebook de exercícios e slides em PDF).
+*   **`Aula_05_Metricas_Avaliacao/`**: Métricas de avaliação para modelos de classificação (Matriz de Confusão, Acurácia, Precisão, Recall e F1-Score). (Contém notebook de exercícios e slides em PDF).
 
 ---
 *Bons estudos!*
